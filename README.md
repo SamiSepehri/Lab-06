@@ -12,6 +12,6 @@ public class AddNum {
         System.out.println("second number:");
         int secondNum = scnr.nextInt();
 
-        System.out.println(firstNum + secondNum);
+        System.out.println(firstNum - secondNum);
     }
 }
